@@ -1,5 +1,5 @@
 # BatApp
-A dark, immersive "Bat-OS" mobile app hidden behind a Wayne Manor library. Created by Abhigyan for inTech 2026, this interactive experience seamlessly blends billionaire executive management with vigilante tactical operations.
+A dark, immersive "Bat-OS" android mobile app hidden behind a Wayne Manor library. Created by Abhigyan for inTech 2026, this interactive experience seamlessly blends billionaire executive management with vigilante tactical operations.
 
 Core Features
 
